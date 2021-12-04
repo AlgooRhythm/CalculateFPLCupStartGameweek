@@ -1,4 +1,4 @@
-# CalculateFPLCupStartGameweek
+# Calculate FPL Cup Start Gameweek
 
 About this code
 
